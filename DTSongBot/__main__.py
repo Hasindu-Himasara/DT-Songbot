@@ -45,7 +45,7 @@ async def start(client, message):
 
 @app.on_message(filters.command("about"))
 async def start(client, message):
-    await message.reply(help_text)
+    await message.reply(about_text)
 
 app.start()
 LOGGER.info("DTSongBot is online.")
