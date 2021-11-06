@@ -9,10 +9,17 @@ from DTSongBot import DTbot as app
 from DTSongBot import LOGGER
 
 pm_start_text = """
-Heya [{}](tg://user?id={}), I'm 🎧 Song Download bot  🎵
-Do /help for know my commands
-A bot by @Damantha_Jasinghe
-Updates channel @ankivectorUpdates
+🙆‍♀️ Hey [{}](tg://user?id={}), I'm 🎧 Song Downloader bot  🎵
+🙋‍♂️ Made by Programming Boy Corporation ©️
+🥰 My commands👇
+🍀/song : Download songs via Youtube
+🍀/saavn : Download songs via JioSaavn
+🍀/deezer : Download songs via Deezer
+🍀/Send Youtube url to my pm for download it on audio format.\n\n
+☘️ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 @HASINDU_HIMASARA
+🌷 Powerd By Programming Boy Corporation ©️\n
+🍀 Stay Safe & Good Luck 🍀
+
 """
 
 help_text = """
