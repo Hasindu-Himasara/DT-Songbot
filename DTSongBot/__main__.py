@@ -1,5 +1,4 @@
-# SLT BrecLand <https://t.me/SLTBrecLand>
-# @Damantha_Jasinghe
+
 
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
 from DTSongBot.plugins import *
@@ -9,7 +8,7 @@ from DTSongBot import DTbot as app
 from DTSongBot import LOGGER
 
 pm_start_text = """
-🙆‍♀️ Hey [{}](tg://user?id={}), I'm 🎧 Song Downloader bot  🎵
+🙆‍♀️ Hey [{}](tg://user?id={}),\nI'm 🎧 Song Downloader bot  🎵
 🙋‍♂️ Made by Programming Boy Corporation ©️
 🥰 My commands👇
 🍀/song : Download songs via Youtube
@@ -41,10 +40,10 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Updates channel", url="https://t.me/HASINDU_HIMASARA"
+                        text="🛠 Updates channel 🛠", url="https://t.me/TECH_WIDE_OFFICIAL"
                     ),
                     InlineKeyboardButton(
-                        text="Support Group", url="https://t.me/HASINDU_HIMASARA"
+                        text="🍀 Support Group 🍀", url="https://t.me/TECH_WIDE_GROUP"
                     )
                 ]
             ]
