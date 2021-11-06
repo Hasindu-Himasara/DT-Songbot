@@ -19,7 +19,7 @@ pm_start_text = """
 """
 
 about_photo= """
-"https://telegra.ph/file/3466040774f3af8624948.jpg"
+https://telegra.ph/file/3466040774f3af8624948.jpg\nTest Text
 """
 
 
