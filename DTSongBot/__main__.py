@@ -21,6 +21,8 @@ pm_start_text = """
 about_photo= """
 "https://telegra.ph/file/3466040774f3af8624948.jpg"
 """
+
+
 @app.on_message(filters.command("start"))
 async def start(client, message):
     chat_id = message.chat.id
@@ -45,7 +47,7 @@ async def start(client, message):
 
 @app.on_message(filters.command("about"))
 async def start(client, message):
-    await message.reply(about_text)
+    await message.reply(about_photo)
 
 app.start()
 LOGGER.info("DTSongBot is online.")
