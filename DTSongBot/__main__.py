@@ -19,9 +19,8 @@ pm_start_text = """
 """
 
 about_photo= """
-"https://telegra.ph/file/3466040774f3af8624948.jpg",
-"""about_text= 'thth'
-
+"https://telegra.ph/file/3466040774f3af8624948.jpg"
+"""
 @app.on_message(filters.command("start"))
 async def start(client, message):
     chat_id = message.chat.id
