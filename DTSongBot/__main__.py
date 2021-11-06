@@ -14,7 +14,7 @@ pm_start_text = """
 🍀/song : Download songs via Youtube
 🙋‍♂️/about : About Bot
 ☘️ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 @HASINDU_HIMASARA\n\n
-✍️ මේ BOT ගෙන් පුළුවන් ඕනෙම සින්දුවක් Search කරලා Download කරන්න. 😜\n🙃 ඔයාට සින්දුවක් Download කරන්න පුලුවන් ඕන නම් මේ විදිහට Type කරලා Send කරන්න. /song <b>!song name!</b>\n\n☘ Ex:- /song Lily\n<b>🙋‍♂️ Owner: HASINDU</b>\n<b>🙋‍♂️ Admin: Janiru</b>\n🍀 Stay Safe & Good Luck 🍀
+✍️ මේ BOT ගෙන් පුළුවන් ඕනෙම සින්දුවක් Search කරලා Download කරන්න පුලුවන් 😜\n🙃 මේ විදිහට තමයි Song එකක් Download කරන්නේ. 👉 මේ විදිහට Type කරලා Send කරන්න. /song <b>!song name!</b>\n\n☘ Ex:- /song Lily\n<b>🙋‍♂️ Owner: HASINDU</b>\n<b>🙋‍♂️ Admin: Janiru</b>\n🍀 Stay Safe & Good Luck 🍀
 ◇───────────────◇\n\n✌ Programming Boy Corporation ©️\n\n◇───────────────◇
 """
 
