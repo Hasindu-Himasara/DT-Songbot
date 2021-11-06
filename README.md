@@ -1,7 +1,7 @@
 # DT-Songbot
 ## A telegram bot that can download songs
 <p align="center">
-  <img src="https://telegra.ph/file/0e9b3fdd3531e65ab53fb.jpg">
+  <img src="https://telegra.ph/file/f1aeee6259e3b1331be64.jpg">
 </p>
 
 Reach me on Telegram [Song Download bot 🎸](https://t.me/TheSongdobot)
