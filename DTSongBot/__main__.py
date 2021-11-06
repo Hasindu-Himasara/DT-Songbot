@@ -34,10 +34,10 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Updates channel", url="https://t.me/ankivectorUpdates"
+                        text="Updates channel", url="https://t.me/HASINDU_HIMASARA"
                     ),
                     InlineKeyboardButton(
-                        text="Support Group", url="https://t.me/AnkiSupport_Official"
+                        text="Support Group", url="https://t.me/HASINDU_HIMASARA"
                     )
                 ]
             ]
