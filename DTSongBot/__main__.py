@@ -19,7 +19,7 @@ pm_start_text = """
 """
 
 about_photo= """
-Test Text
+Telegraph link where the logo of Programming Boy Corporation © is uploaded 😋 https://telegra.ph/file/3466040774f3af8624948.jp\🍀 We Are Programming Boy Corporation ©  
 """
 
 
