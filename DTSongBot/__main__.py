@@ -14,15 +14,13 @@ pm_start_text = """
 🍀/song : Download songs via Youtube
 🙋‍♂️/about : About Bot
 ☘️ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 @HASINDU_HIMASARA\n\n
-✍️ මේ BOT ගෙන් පුළුවන් ඕනෙම සින්දුවක් Search කරලා Download කරන්න. 😜\n🙃 ඔයාට සින්දුවක් Download කරන්න ඕන නම් මේ විදිහට Type කරලා Send කරන්න. /song <b>!song name!</b>\n\n☘ Ex:- /song Lily\n<b>🙋‍♂️ Owner: HASINDU</b>\n<b>🙋‍♂️ Admin: Janiru</b>\n🍀 Stay Safe & Good Luck 🍀
+✍️ මේ BOT ගෙන් පුළුවන් ඕනෙම සින්දුවක් Search කරලා Download කරන්න. 😜\n🙃 ඔයාට සින්දුවක් Download කරන්න පුලුවන් ඕන නම් මේ විදිහට Type කරලා Send කරන්න. /song <b>!song name!</b>\n\n☘ Ex:- /song Lily\n<b>🙋‍♂️ Owner: HASINDU</b>\n<b>🙋‍♂️ Admin: Janiru</b>\n🍀 Stay Safe & Good Luck 🍀
 ◇───────────────◇\n\n✌ Programming Boy Corporation ©️\n\n◇───────────────◇
 """
 
-help_text = """
-My commands👇
-- /song <song name>: 👀 Download songs via Youtube 👀
--/about : ✌ About Bot ✌
-"""
+about_photo= """
+"https://telegra.ph/file/3466040774f3af8624948.jpg",
+"""about_text= 'thth'
 
 @app.on_message(filters.command("start"))
 async def start(client, message):
@@ -46,7 +44,7 @@ async def start(client, message):
         btn = None
     await message.reply(pm_start_text.format(name, user_id), reply_markup=btn)
 
-@app.on_message(filters.command("help"))
+@app.on_message(filters.command("about"))
 async def start(client, message):
     await message.reply(help_text)
 
