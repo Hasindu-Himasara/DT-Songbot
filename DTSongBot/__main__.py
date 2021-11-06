@@ -10,23 +10,18 @@ from DTSongBot import LOGGER
 pm_start_text = """
 🙆‍♀️ Hey [{}](tg://user?id={}),\n🌷 I'm 🎧 Song Downloader bot  🎵
 🙋‍♂️ Made by Programming Boy Corporation ©️\n<b>
-🥰 My commands👇</b>
+🥰 My command👇</b>
 🍀/song : Download songs via Youtube
-🍀/saavn : Download songs via JioSaavn
-🍀/deezer : Download songs via Deezer
-🍀/Send Youtube url to my pm for download it on audio format.\n\n
+🙋‍♂️/about : About Bot
 ☘️ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 @HASINDU_HIMASARA\n
 🍀 Stay Safe & Good Luck 🍀\n\n
-◇───────────────◇\n◇Programming Boy Corporation ©️\n◇───────────────◇
+◇───────────────◇\n\n◇Programming Boy Corporation ©️\n◇───────────────◇
 """
 
 help_text = """
 My commands👇
-- /song <song name>: download songs via Youtube
-- /saavn <song name>: download songs via JioSaavn
-- /deezer <song name>: download songs via Deezer
-- Send youtube url to my pm for download it on audio format
-A bot by @ankivectorUpdates
+- /song <song name>:👀 Download songs via Youtube 👀
+-/about :✌ About Bot ✌
 """
 
 @app.on_message(filters.command("start"))
