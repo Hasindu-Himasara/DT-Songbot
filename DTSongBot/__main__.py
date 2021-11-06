@@ -19,7 +19,7 @@ pm_start_text = """
 """
 
 about_photo= """
-Telegraph link where the logo of Programming Boy Corporation © is uploaded 😋 https://telegra.ph/file/3466040774f3af8624948.jpg\n\n<b>🍀 Powerd By Programming Boy Corporation  ©</b>/n🍀 Stay Safe & Good Luck 🍀
+Telegraph link where the logo of Programming Boy Corporation © is uploaded 😋 https://telegra.ph/file/3466040774f3af8624948.jpg\n\n<b>🍀 Powerd By Programming Boy Corporation ©</b>\n🍀 Stay Safe & Good Luck 🍀
 ◇───────────────◇\n\n✌ Programming Boy Corporation ©️\n\n◇───────────────◇
 """
 
