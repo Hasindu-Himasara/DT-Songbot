@@ -8,16 +8,19 @@ from DTSongBot import DTbot as app
 from DTSongBot import LOGGER
 
 pm_start_text = """
-🙆‍♀️ Hey [{}](tg://user?id={}),\nI'm 🎧 Song Downloader bot  🎵
-🙋‍♂️ Made by Programming Boy Corporation ©️
+🙆‍♀️ Hey [{}](tg://user?id={}),\n🌷 I'm 🎧 Song Downloader bot  🎵
+🙋‍♂️ Made by Programming Boy Corporation ©️\n
 🥰 My commands👇
 🍀/song : Download songs via Youtube
 🍀/saavn : Download songs via JioSaavn
 🍀/deezer : Download songs via Deezer
 🍀/Send Youtube url to my pm for download it on audio format.\n\n
-☘️ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 @HASINDU_HIMASARA
-🌷 Powerd By Programming Boy Corporation ©️\n
-🍀 Stay Safe & Good Luck 🍀
+☘️ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 @HASINDU_HIMASARA\n\n
+🍀 Stay Safe & Good Luck 🍀\n\n
+◇───────────────◇\n\n◇Programming Boy Corporation ©️\n\n◇───────────────◇
+
+
+
 
 """
 
