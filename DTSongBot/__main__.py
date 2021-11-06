@@ -8,7 +8,7 @@ from DTSongBot import DTbot as app
 from DTSongBot import LOGGER
 
 pm_start_text = """
-🙆‍♀️ Hey [{}](tg://user?id={}),\n🌷 I'm 🎧 Song Downloader bot  🎵
+🙆‍♀️ Hey [{}](tg://user?id={}),\n🌷 I'm 🎧 PBC Song bot  🎵
 🙋‍♂️ Made by Programming Boy Corporation ©️\n<b>
 🥰 My commands 👇</b>
 🍀/song : Download songs via Youtube
